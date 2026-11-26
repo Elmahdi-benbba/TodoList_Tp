@@ -91,12 +91,6 @@ export default function Home() {
             <Navbar />
 
             <main className="container">
-
-                <section className="welcome">
-                    <h1>My Tasks</h1>
-                    <p>Organize your day and stay productive.</p>
-                </section>
-
                 <section className="stats">
 
                     <div className="stat-card">
